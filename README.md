@@ -32,11 +32,11 @@ COMM → Comment
 
 # Requirements
 
-Language : Advanced C
-Compiler : GCC (GNU Compiler Collection)
-Operating System : Linux / Windows
-File Format : MP3 (ID3v2 Tag Format)
-Libraries Used : <stdio.h>, <stdlib.h>, <string.h>
+Language   : Advanced C
+Compiler   : GCC (GNU Compiler Collection)
+Operating System  : Linux / Windows
+File Format  : MP3 (ID3v2 Tag Format)
+Libraries Used  : <stdio.h>, <stdlib.h>, <string.h>
 
 
 
