@@ -52,6 +52,12 @@ The MP3 file first goes into the READ module, where the program reads the ID3v2 
 If the user gives an Edit Command, the file moves to the EDIT module, where the selected tag is modified.
 Finally, the updated information is written back into the same MP3 file.
 
+# Sample Output
+# 1.view data
+
+<img width="819" height="359" alt="Screenshot 2025-12-04 233035" src="https://github.com/user-attachments/assets/5468dffd-5afc-471c-9b3b-30c0d39c220d" />
+# 2.Edit data
+
 
 
 
