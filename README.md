@@ -30,6 +30,8 @@ TCON → Content Type (Genre)
 
 COMM → Comment
 
+# Requirements
+
 Language : Advanced C
 Compiler : GCC (GNU Compiler Collection)
 Operating System : Linux / Windows
