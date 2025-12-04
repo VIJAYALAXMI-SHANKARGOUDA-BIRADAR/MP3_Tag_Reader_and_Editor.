@@ -36,6 +36,13 @@ Language   : Advanced C
 
 Compiler   : GCC (GNU Compiler Collection)
 
+Operating System  : Linux / Windows
+
+Libraries Used  : <stdio.h>, <stdlib.h>, <string.h>
+
+
+File Format  : MP3 (ID3v2 Tag Format)
+
 Language   : Advanced C
 Compiler   : GCC (GNU Compiler Collection)
 Operating System  : Linux / Windows
