@@ -56,7 +56,8 @@ Finally, the updated information is written back into the same MP3 file.
 # 1.view data
 
 <img width="819" height="359" alt="Screenshot 2025-12-04 233035" src="https://github.com/user-attachments/assets/5468dffd-5afc-471c-9b3b-30c0d39c220d" />
-# 2.Edit data
+
+# 2..Edit data
 
 
 
