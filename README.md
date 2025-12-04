@@ -43,6 +43,16 @@ Libraries Used  : <stdio.h>, <stdlib.h>, <string.h>
 
 File Format  : MP3 (ID3v2 Tag Format)
 
+# Block Diagram
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/03046cd4-5eef-40a6-8174-2df3198ea5ae" />
+
+
+The MP3 file first goes into the READ module, where the program reads the ID3v2 tags like Title, Artist, Album, etc.
+If the user gives an Edit Command, the file moves to the EDIT module, where the selected tag is modified.
+Finally, the updated information is written back into the same MP3 file.
+
+
 
 
 
